@@ -3,7 +3,7 @@
 This project was carried out along with the department of statistics of the University of Salamanca and with the [department of Artificial Intelligence](https://ia-cardiologia-husa.github.io/) of the cardiology service of the University Hospital of Salamanca.
 
 The goal of this project is developing an automatic recommendation system capable of providing the doctor with an estimate of the time needed to receive the double antiaggregation treatment, and that this is easy to use.
-The use of automated learning algorithms has shown remarkable results in the field of medicine. Artificial intelligence has been introduced into modern medicine with the intention of helping in the elaboration and speed up of the diagnosis, also to accompany and facilitate the doctor's work, never to replace it.
+The use of automated learning algorithms has shown remarkable results in the field of medicine. Artificial intelligence has been introduced into modern medicine with the intention of helping in the elaboration and speed up of the diagnosis, also to accompany and facilitate the doctor's work, never to replace him or her.
 
 
 This final project degree work was awarded by the General Foundation of the University of Salamanca with the prize of [Knowledge Transfer University-Company] (https://www.redtcue.es/), with the aim of making a prototype of this project at the business level.
