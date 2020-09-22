@@ -4,7 +4,7 @@ This project was carried out along with the department of statistics of the Univ
 
 The goal of this project is to develop an automatic recommendation system capable of providing a cardiologist a personalized duration of the double antiaggregation treatment for myocardial infarction patients, in an easy to use app. The use of automated learning algorithms has shown remarkable results in the field of medicine. Artificial intelligence has been introduced into modern medicine with the intention of helping in the elaboration and speed up of the diagnosis, also to accompany and facilitate the doctor's work, never to replace it.
 
-This final project degree work was awarded by the General Foundation of the University of Salamanca with the prize of [University & Business Knowledge Transfer] (https://www.redtcue.es/), with the aim of making a prototype of this project at the business level.
+This final project degree work was awarded by the General Foundation of the University of Salamanca with the prize of [University & Business Knowledge Transfer](https://www.redtcue.es/), with the aim of making a prototype of this project at the business level.
 
 ## Demo TCUE:
 * [Demo App Heroku](https://tcue-app.herokuapp.com/) ![favicon-16x16](https://github.com/heroku/favicon/raw/master/favicon.iconset/icon_16x16.png)
