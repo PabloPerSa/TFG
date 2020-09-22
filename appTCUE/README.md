@@ -1,2 +1,0 @@
-# Riesgo de Reinfarto / Hemorragia
-
